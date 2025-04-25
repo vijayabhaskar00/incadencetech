@@ -1617,6 +1617,15 @@ p {
   width: 100%;
 }
 
+.feature-left {
+  position: relative;
+  background-image: url('../images/hero-bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
+}
+
 .feature-right .watch-inner {
   display: inline-block;
   text-align: center;
